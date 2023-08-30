@@ -3,6 +3,7 @@
 ## Instructions
 
 npm i
+
 npm run start
 
 ## What to do
